@@ -1,0 +1,888 @@
+Uri: https://fonts.googleapis.com/css?family=Nunito:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&subset=cyrillic&ver=6.3.1
+File Name: C:\Downloaded Web Sites\rollingreserve.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTA3ig.ttf
+File Name: C:\Downloaded Web Sites\rollingreserve.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTA3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDDshdTA3ig.ttf
+File Name: C:\Downloaded Web Sites\rollingreserve.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDDshdTA3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTA3ig.ttf
+File Name: C:\Downloaded Web Sites\rollingreserve.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTA3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTA3ig.ttf
+File Name: C:\Downloaded Web Sites\rollingreserve.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTA3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTA3ig.ttf
+File Name: C:\Downloaded Web Sites\rollingreserve.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTA3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTA3ig.ttf
+File Name: C:\Downloaded Web Sites\rollingreserve.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTA3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTA3ig.ttf
+File Name: C:\Downloaded Web Sites\rollingreserve.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTA3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTA3ig.ttf
+File Name: C:\Downloaded Web Sites\rollingreserve.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTA3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHiabf.ttf
+File Name: C:\Downloaded Web Sites\rollingreserve.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHiabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHcHiabf.ttf
+File Name: C:\Downloaded Web Sites\rollingreserve.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHcHiabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHiabf.ttf
+File Name: C:\Downloaded Web Sites\rollingreserve.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHiabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXAHiabf.ttf
+File Name: C:\Downloaded Web Sites\rollingreserve.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXAHiabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXcHiabf.ttf
+File Name: C:\Downloaded Web Sites\rollingreserve.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXcHiabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNin3AHiabf.ttf
+File Name: C:\Downloaded Web Sites\rollingreserve.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNin3AHiabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHiabf.ttf
+File Name: C:\Downloaded Web Sites\rollingreserve.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHiabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHiabf.ttf
+File Name: C:\Downloaded Web Sites\rollingreserve.com\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHiabf.ttf
+Content Type: font/ttf
+
+Uri: https://free-png.ru/wp-content/uploads/2020/09/Gazprombank-logotip-01.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2020\09\Gazprombank-logotip-01.png
+Content Type: image/png
+
+Uri: https://iconape.com/wp-content/files/wr/209749/svg/209749.svg
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\files\wr\209749\svg\209749.svg
+Content Type: image/svg+xml
+
+Uri: https://images.squarespace-cdn.com/content/v1/5395bf26e4b048e3205d6d34/1468854536855-N85JXZMER9TB8STYYBD3/alfabank.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\content\v1\5395bf26e4b048e3205d6d34\1468854536855-N85JXZMER9TB8STYYBD3\alfabank.png
+Content Type: image/png
+
+Uri: https://landio.uicore.co/dark-landing-page/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\rollingreserve.com\dark-landing-page\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://landio.uicore.co/dark-landing-page/wp-content/plugins/uicore-framework/assets/fonts/themify.woff?-fvbane
+File Name: C:\Downloaded Web Sites\rollingreserve.com\dark-landing-page\wp-content\plugins\uicore-framework\assets\fonts\themify.woff
+Content Type: font/woff
+
+Uri: https://logos-world.net/wp-content/uploads/2021/02/Kraken-Emblem.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2021\02\Kraken-Emblem.png
+Content Type: image/png
+
+Uri: https://lvm.ee/wp-content/uploads/2020/11/luminor-logo-transparent.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2020\11\luminor-logo-transparent.png
+Content Type: image/png
+
+Uri: https://prostocoin.io/assets/images/bitstamp1.jpg
+File Name: C:\Downloaded Web Sites\rollingreserve.com\assets\images\bitstamp1.jpg
+Content Type: image/jpeg
+
+Uri: https://rollingreserve.com/
+File Name: C:\Downloaded Web Sites\rollingreserve.com\index.htm
+Content Type: text/html
+
+Uri: https://rollingreserve.com/agreement/
+File Name: C:\Downloaded Web Sites\rollingreserve.com\agreement\index.htm
+Content Type: text/html
+
+Uri: https://rollingreserve.com/comments/feed/
+File Name: C:\Downloaded Web Sites\rollingreserve.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://rollingreserve.com/feed/
+File Name: C:\Downloaded Web Sites\rollingreserve.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://rollingreserve.com/otzyvy/
+File Name: C:\Downloaded Web Sites\rollingreserve.com\otzyvy\index.htm
+Content Type: text/html
+
+Uri: https://rollingreserve.com/otzyvy/feed/
+File Name: C:\Downloaded Web Sites\rollingreserve.com\otzyvy\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://rollingreserve.com/privacy/
+File Name: C:\Downloaded Web Sites\rollingreserve.com\privacy\index.htm
+Content Type: text/html
+
+Uri: https://rollingreserve.com/wp-content/plugins/bdthemes-element-pack/assets/css/bdt-uikit.css?ver=3.7.2
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\bdthemes-element-pack\assets\css\bdt-uikit.css
+Content Type: text/css
+
+Uri: https://rollingreserve.com/wp-content/plugins/bdthemes-element-pack/assets/css/element-pack-site.css?ver=5.14.1
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\bdthemes-element-pack\assets\css\element-pack-site.css
+Content Type: text/css
+
+Uri: https://rollingreserve.com/wp-content/plugins/bdthemes-element-pack/assets/css/ep-advanced-icon-box.css?ver=5.14.1
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\bdthemes-element-pack\assets\css\ep-advanced-icon-box.css
+Content Type: text/css
+
+Uri: https://rollingreserve.com/wp-content/plugins/bdthemes-element-pack/assets/images/loading.svg
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\bdthemes-element-pack\assets\images\loading.svg
+Content Type: image/svg+xml
+
+Uri: https://rollingreserve.com/wp-content/plugins/bdthemes-element-pack/assets/js/bdt-uikit.min.js?ver=3.7.2
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\bdthemes-element-pack\assets\js\bdt-uikit.min.js
+Content Type: application/javascript
+
+Uri: https://rollingreserve.com/wp-content/plugins/bdthemes-element-pack/assets/js/element-pack-site.min.js?ver=5.14.1
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\bdthemes-element-pack\assets\js\element-pack-site.min.js
+Content Type: application/javascript
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.5.2
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.5.2
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.5.2
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.5.2
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.5.2
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.5.2
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.2
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.5.2
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.13.0
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.13.0
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.13.0
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.13.0
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.13.0
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: application/octet-stream
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.13.0
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/font-woff
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://rollingreserve.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://rollingreserve.com/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.9.5
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wp-smushit\app\assets\js\smush-lazy-load.min.js
+Content Type: application/javascript
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/css/wpdiscuz-combo.min.css?ver=6.3.1
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\css\wpdiscuz-combo.min.css
+Content Type: text/css
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/img/delete.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\img\delete.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/img/file-icons/delete.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\img\file-icons\delete.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/img/loading.gif
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\img\loading.gif
+Content Type: image/gif
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/js/wpdiscuz-combo.min.js?ver=7.3.8
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\js\wpdiscuz-combo.min.js
+Content Type: application/javascript
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/colorbox/images/border.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\colorbox\images\border.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/colorbox/images/controls.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\colorbox\images\controls.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/colorbox/images/loading.gif
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\colorbox\images\loading.gif
+Content Type: image/gif
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/colorbox/images/loading_background.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\colorbox\images\loading_background.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/colorbox/images/overlay.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\colorbox\images\overlay.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/css/fa.min.css?ver=7.3.8
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\css\fa.min.css
+Content Type: text/css
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.eot
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.eot?
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.svg
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.ttf
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.woff
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.woff2
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpdiscuz/themes/default/style.css?ver=7.3.8
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpdiscuz\themes\default\style.css
+Content Type: text/css
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpforms/assets/css/wpforms-full.min.css?ver=1.7.1
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpforms\assets\css\wpforms-full.min.css
+Content Type: text/css
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpforms/assets/images/submit-spin.svg
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpforms\assets\images\submit-spin.svg
+Content Type: image/svg+xml
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpforms/assets/images/times-solid-white.svg
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpforms\assets\images\times-solid-white.svg
+Content Type: image/svg+xml
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpforms/assets/js/integrations/elementor/frontend.min.js?ver=1.7.1
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpforms\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpforms/assets/js/jquery.inputmask.min.js?ver=5.0.6
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpforms\assets\js\jquery.inputmask.min.js
+Content Type: application/javascript
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpforms/assets/js/jquery.validate.min.js?ver=1.19.3
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpforms\assets\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpforms/assets/js/mailcheck.min.js?ver=1.1.2
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpforms\assets\js\mailcheck.min.js
+Content Type: application/javascript
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpforms/assets/js/punycode.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpforms\assets\js\punycode.min.js
+Content Type: application/javascript
+
+Uri: https://rollingreserve.com/wp-content/plugins/wpforms/assets/js/wpforms.js?ver=1.7.1
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\plugins\wpforms\assets\js\wpforms.js
+Content Type: application/javascript
+
+Uri: https://rollingreserve.com/wp-content/themes/landio/assets/skin/landio/fonts/uicore-icons.svg?d6fuaj
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\themes\landio\assets\skin\landio\fonts\uicore-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://rollingreserve.com/wp-content/themes/landio/assets/skin/landio/fonts/uicore-icons.ttf?d6fuaj
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\themes\landio\assets\skin\landio\fonts\uicore-icons.ttf
+Content Type: application/octet-stream
+
+Uri: https://rollingreserve.com/wp-content/themes/landio/assets/skin/landio/fonts/uicore-icons.woff?d6fuaj
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\themes\landio\assets\skin\landio\fonts\uicore-icons.woff
+Content Type: application/font-woff
+
+Uri: https://rollingreserve.com/wp-content/uploads/2021/12/Dark-element-1.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2021\12\Dark-element-1.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2021/12/Dark-element-2.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2021\12\Dark-element-2.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2021/12/Dark-element-3.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2021\12\Dark-element-3.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2021/12/dark-landing-cta-bg.webp
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2021\12\dark-landing-cta-bg.webp
+Content Type: image/webp
+
+Uri: https://rollingreserve.com/wp-content/uploads/2021/12/dark-landing-download-300x281.webp
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2021\12\dark-landing-download-300x281.webp
+Content Type: image/webp
+
+Uri: https://rollingreserve.com/wp-content/uploads/2021/12/dark-landing-download-650x608.webp
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2021\12\dark-landing-download-650x608.webp
+Content Type: image/webp
+
+Uri: https://rollingreserve.com/wp-content/uploads/2021/12/dark-landing-download.webp
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2021\12\dark-landing-download.webp
+Content Type: image/webp
+
+Uri: https://rollingreserve.com/wp-content/uploads/2021/12/dark-landing-feature-2-300x188.webp
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2021\12\dark-landing-feature-2-300x188.webp
+Content Type: image/webp
+
+Uri: https://rollingreserve.com/wp-content/uploads/2021/12/dark-landing-feature-2.webp
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2021\12\dark-landing-feature-2.webp
+Content Type: image/webp
+
+Uri: https://rollingreserve.com/wp-content/uploads/2021/12/dark-landing-feature-3-141x300.webp
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2021\12\dark-landing-feature-3-141x300.webp
+Content Type: image/webp
+
+Uri: https://rollingreserve.com/wp-content/uploads/2021/12/dark-landing-feature-3-306x650.webp
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2021\12\dark-landing-feature-3-306x650.webp
+Content Type: image/webp
+
+Uri: https://rollingreserve.com/wp-content/uploads/2021/12/dark-landing-feature-3.webp
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2021\12\dark-landing-feature-3.webp
+Content Type: image/webp
+
+Uri: https://rollingreserve.com/wp-content/uploads/2021/12/dark-landing-feature-4-141x300.webp
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2021\12\dark-landing-feature-4-141x300.webp
+Content Type: image/webp
+
+Uri: https://rollingreserve.com/wp-content/uploads/2021/12/dark-landing-feature-4-306x650.webp
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2021\12\dark-landing-feature-4-306x650.webp
+Content Type: image/webp
+
+Uri: https://rollingreserve.com/wp-content/uploads/2021/12/dark-landing-feature-4.webp
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2021\12\dark-landing-feature-4.webp
+Content Type: image/webp
+
+Uri: https://rollingreserve.com/wp-content/uploads/2021/12/dark-landing-hero-bg.webp
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2021\12\dark-landing-hero-bg.webp
+Content Type: image/webp
+
+Uri: https://rollingreserve.com/wp-content/uploads/2021/12/Dark-payment-Bg.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2021\12\Dark-payment-Bg.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2021/12/logo-300x76.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2021\12\logo-300x76.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2021/12/logo-650x165.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2021\12\logo-650x165.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2021/12/logo-768x195.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2021\12\logo-768x195.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2021/12/logo.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2021\12\logo.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/01/img1-1-140x300.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\01\img1-1-140x300.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/01/img1-1-303x650.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\01\img1-1-303x650.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/01/img1-1-478x1024.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\01\img1-1-478x1024.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/01/img1-1-717x1536.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\01\img1-1-717x1536.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/01/img1-1-768x1645.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\01\img1-1-768x1645.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/01/img1-1.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\01\img1-1.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/01/img2-138x300.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\01\img2-138x300.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/01/img2.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\01\img2.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/01/img3-141x300.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\01\img3-141x300.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/01/img3-306x650.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\01\img3-306x650.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/01/img3.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\01\img3.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/01/img4-141x300.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\01\img4-141x300.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/01/img4-306x650.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\01\img4-306x650.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/01/img4.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\01\img4.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/01/logosvg.svg
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\01\logosvg.svg
+Content Type: image/svg+xml
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/02/dark-landing-gallery-2-137x300.webp
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\02\dark-landing-gallery-2-137x300.webp
+Content Type: image/webp
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/02/dark-landing-gallery-2.webp
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\02\dark-landing-gallery-2.webp
+Content Type: image/webp
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/02/favicon.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\02\favicon.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/forbes-1024x684.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\forbes-1024x684.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/forbes-1536x1026.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\forbes-1536x1026.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/forbes-2048x1368.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\forbes-2048x1368.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/forbes-300x200.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\forbes-300x200.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/forbes-650x434.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\forbes-650x434.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/forbes-768x513.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\forbes-768x513.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/forbes.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\forbes.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/lenta-1024x684.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\lenta-1024x684.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/lenta-1536x1026.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\lenta-1536x1026.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/lenta-2048x1368.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\lenta-2048x1368.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/lenta-300x200.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\lenta-300x200.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/lenta-650x434.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\lenta-650x434.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/lenta-768x513.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\lenta-768x513.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/lenta.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\lenta.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/otziv1-265x300.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\otziv1-265x300.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/otziv1-575x650.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\otziv1-575x650.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/otziv1-768x868.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\otziv1-768x868.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/otziv1.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\otziv1.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/otziv2-265x300.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\otziv2-265x300.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/otziv2-575x650.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\otziv2-575x650.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/otziv2-768x868.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\otziv2-768x868.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/otziv2.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\otziv2.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/otziv3-265x300.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\otziv3-265x300.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/otziv3-575x650.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\otziv3-575x650.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/otziv3-768x868.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\otziv3-768x868.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/otziv3.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\otziv3.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/ria.jpg-1024x684.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\ria.jpg-1024x684.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/ria.jpg-1536x1026.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\ria.jpg-1536x1026.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/ria.jpg-2048x1368.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\ria.jpg-2048x1368.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/ria.jpg-300x200.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\ria.jpg-300x200.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/ria.jpg-650x434.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\ria.jpg-650x434.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/ria.jpg-768x513.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\ria.jpg-768x513.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/2022/09/ria.jpg.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\2022\09\ria.jpg.png
+Content Type: image/png
+
+Uri: https://rollingreserve.com/wp-content/uploads/elementor/css/post-107.css?ver=1663268943
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\elementor\css\post-107.css
+Content Type: text/css
+
+Uri: https://rollingreserve.com/wp-content/uploads/elementor/css/post-860.css?ver=1643726364
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\elementor\css\post-860.css
+Content Type: text/css
+
+Uri: https://rollingreserve.com/wp-content/uploads/elementor/css/post-865.css?ver=1656002176
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\elementor\css\post-865.css
+Content Type: text/css
+
+Uri: https://rollingreserve.com/wp-content/uploads/elementor/css/post-939.css?ver=1645644820
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\elementor\css\post-939.css
+Content Type: text/css
+
+Uri: https://rollingreserve.com/wp-content/uploads/uicore-global.css?ver=6964
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\uicore-global.css
+Content Type: text/css
+
+Uri: https://rollingreserve.com/wp-content/uploads/uicore-global.js?ver=6964
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\uicore-global.js
+Content Type: application/javascript
+
+Uri: https://rollingreserve.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://rollingreserve.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://rollingreserve.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://rollingreserve.com/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://rollingreserve.com/wp-includes/js/wp-util.min.js?ver=6.3.1
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://rollingreserve.com/wp-json/
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://rollingreserve.com/wp-json/oembed/1.0/embed?url=https:%2F%2Frollingreserve.com%2F
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://rollingreserve.com/wp-json/oembed/1.0/embed?url=https:%2F%2Frollingreserve.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://rollingreserve.com/wp-json/oembed/1.0/embed?url=https:%2F%2Frollingreserve.com%2Fagreement%2F
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://rollingreserve.com/wp-json/oembed/1.0/embed?url=https:%2F%2Frollingreserve.com%2Fagreement%2F&format=xml
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://rollingreserve.com/wp-json/oembed/1.0/embed?url=https:%2F%2Frollingreserve.com%2Fotzyvy%2F
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://rollingreserve.com/wp-json/oembed/1.0/embed?url=https:%2F%2Frollingreserve.com%2Fotzyvy%2F&format=xml
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://rollingreserve.com/wp-json/oembed/1.0/embed?url=https:%2F%2Frollingreserve.com%2Fprivacy%2F
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://rollingreserve.com/wp-json/oembed/1.0/embed?url=https:%2F%2Frollingreserve.com%2Fprivacy%2F&format=xml
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://rollingreserve.com/wp-json/wp/v2/pages/1007
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-json\wp\v2\pages\1007
+Content Type: application/json
+
+Uri: https://rollingreserve.com/wp-json/wp/v2/pages/1017
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-json\wp\v2\pages\1017
+Content Type: application/json
+
+Uri: https://rollingreserve.com/wp-json/wp/v2/pages/107
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-json\wp\v2\pages\107
+Content Type: application/json
+
+Uri: https://rollingreserve.com/wp-json/wp/v2/pages/939
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-json\wp\v2\pages\939
+Content Type: application/json
+
+Uri: https://rollingreserve.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\rollingreserve.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://s.dou.ua/img/static/companies/720х320-b_x66mLGm.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\img\static\companies\720х320-b_x66mLGm.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/avatar/?s=112&d=mm&r=g
+File Name: C:\Downloaded Web Sites\rollingreserve.com\avatar\none-1.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/?s=56&d=mm&r=g
+File Name: C:\Downloaded Web Sites\rollingreserve.com\avatar\none.png
+Content Type: image/jpeg
+
+Uri: https://upload.wikimedia.org/wikipedia/commons/9/9e/Coinbase.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wikipedia\commons\9\9e\Coinbase.png
+Content Type: image/png
+
+Uri: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Binance_logo.svg/2560px-Binance_logo.svg.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wikipedia\commons\thumb\1\12\Binance_logo.svg\2560px-Binance_logo.svg.png
+Content Type: image/png
+
+Uri: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sberbank_Logo_2020.svg/2560px-Sberbank_Logo_2020.svg.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wikipedia\commons\thumb\9\9b\Sberbank_Logo_2020.svg\2560px-Sberbank_Logo_2020.svg.png
+Content Type: image/png
+
+Uri: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bitfinex_logo.svg/1280px-Bitfinex_logo.svg.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wikipedia\commons\thumb\c\c0\Bitfinex_logo.svg\1280px-Bitfinex_logo.svg.png
+Content Type: image/png
+
+Uri: https://upload.wikimedia.org/wikipedia/ru/8/8c/Swedbank.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wikipedia\ru\8\8c\Swedbank.png
+Content Type: image/png
+
+Uri: https://www.pngall.com/wp-content/uploads/10/Huobi-Token-Logo-PNG-Cutout.png
+File Name: C:\Downloaded Web Sites\rollingreserve.com\wp-content\uploads\10\Huobi-Token-Logo-PNG-Cutout.png
+Content Type: image/png
+

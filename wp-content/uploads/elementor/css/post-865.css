@@ -1,0 +1,41 @@
+.elementor-865 .elementor-element.elementor-element-5e503c0{margin-top:0px;margin-bottom:0px;padding:20px 0px 0px 0px;}.elementor-865 .elementor-element.elementor-element-d5ccb76{text-align:center;}.elementor-865 .elementor-element.elementor-element-d5ccb76 .elementor-heading-title{color:#FFFFFF;font-size:22px;}#elementor-popup-modal-865 .dialog-message{width:400px;height:auto;}#elementor-popup-modal-865{justify-content:center;align-items:center;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-865 .dialog-close-button{display:flex;}#elementor-popup-modal-865 .dialog-widget-content{background-color:#16171B;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}.elementor-widget .tippy-tooltip .tippy-content{text-align:center;}/* Start custom CSS for wpforms, class: .elementor-element-8656219 */.elementor-865 .elementor-element.elementor-element-8656219 input,
+.elementor-865 .elementor-element.elementor-element-8656219 select{
+    
+    background-color: #2a2a2c !important;
+    border-color: #2a2a2c !important;
+    color: white !important;
+}
+.elementor-865 .elementor-element.elementor-element-8656219 select
+{
+        margin-top: 25px;
+
+}
+
+
+.elementor-865 .elementor-element.elementor-element-8656219 button[type="submit"]{
+    display: flex!important;
+    background: #42a66c !important;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+    width: 100%;
+    font-size: 18px !important;
+    color: white !important;
+    border: none !important;
+    padding: 15px !important;
+}/* End custom CSS */
+/* Start custom CSS */#elementor-popup-modal-865 .dialog-close-button {
+    top: -30px;
+    right: -30px;
+    font-size: 26px;
+
+}
+
+@media screen and (max-width:767px) {
+    #elementor-popup-modal-865 .dialog-close-button {
+    top: -40px;
+    right: 0px;
+    font-size: 26px;
+
+}
+}/* End custom CSS */
